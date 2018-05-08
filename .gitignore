@@ -1,0 +1,23 @@
+# Compiled files
+*.pyc
+
+# Files
+local_settings.py
+
+# Database
+*.sqlite3
+
+# DS Store
+*.DS_Store
+
+# Media Files
+media
+
+# Local settings
+local_settings.py
+
+# PredictionIO log files
+pio
+*pio.log
+*manifest.json
+*target
